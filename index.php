@@ -1,7 +1,7 @@
 <!DOCTYPE>
 <html>
 	<head>
-		<title>My Online Shop</title>
+		<title>ECommerce BookStore</title>
 	</head>
 <body>
 <div>HELLO WORLD!!! </div>
